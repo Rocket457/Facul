@@ -1,0 +1,1 @@
+sob certas condições o número de bactéria B, de uma cultura, em função do tempo t, medido em horas, é dado por b(t) = 2^t/12. Desenvolva algoritmo que determine o numero de bactéria após a hora zero. O usuário deve informar o número de dias que ele deseja saber o número de dias que ele deseja saber o número de bactéria
