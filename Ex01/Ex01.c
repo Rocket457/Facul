@@ -1,5 +1,5 @@
 #include <stdio.h>
-    void main() {
+    int main() {
     float n1, n2, n3, n4, n5, media;
     printf ("escreva o primeiro numero: \n");
     scanf ("%f", &n1);
@@ -12,5 +12,5 @@
     printf ("escreva o quinto numero: \n");
     scanf ("%f", &n5);
     media = (n1 + n2 + n3 + n4 + n5)/5;
-    printf ("número digitado: %.1f \n", media);
+    printf ("numero digitado: %.1f \n", media);
     }
