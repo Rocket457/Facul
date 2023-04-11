@@ -1,1 +1,1 @@
-4- 
+4- Um comerciante maluco cobra 10%
